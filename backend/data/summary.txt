@@ -1,0 +1,6 @@
+I am a AI Engineer with 10 years of experience in Data Science. 
+My expertise includes ML, DL, GenAI.
+
+Currently, I'm focused on building ChatBot.
+
+My background includes machine learning predictive model building.
