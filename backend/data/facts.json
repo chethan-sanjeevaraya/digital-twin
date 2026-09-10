@@ -1,0 +1,21 @@
+{
+  "full_name": "Chethan",
+  "name": "Bayer",
+  "current_role": "AI Engineer",
+  "location": "Bangalore",
+  "email": "chethan123@demo.com",
+  "linkedin": "linkedin.com/in/chethan",
+  "specialties": [
+    "Data Scientist",
+    "Team Lead",
+    "Travller"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "BE",
+      "institution": "VTU",
+      "year": "2014"
+    }
+  ]
+}
